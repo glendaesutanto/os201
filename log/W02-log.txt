@@ -1,2 +1,25 @@
 OS 2020 1
 Assignments of Week 02: done!!
+
+Data :
+OS201 B 1806133774 glendaesutanto Glenda Emanuella Sutanto
+
+Encrypted message :
+-----BEGIN PGP MESSAGE-----
+Version: BCPG C# v1.6.1.0
+
+hQIMA9D1291n323eAQ/+I+jHu7+uZWkijF1Td9mna7UtLadpPHZQf89MuQ9yOOr3
+IQFl9KkJBPetxKv1VXX63IZxy6umB6oTgfJ3HrzDJa93+oARLw4qDIx6hw3ectTw
+0/aVMnoUlrUWy2/GB8iN1YbDerOEiQAwbW7B+H7pd1OcfMZIGug5+qoS7EYBmW27
+XfttfYfEgar7iQWrKWeXXjnH+4AM98UgnnbfELom6y5ZGetpiBnRc9Z4RcLhBhk0
+HXKUturL/g0hznyEkY42mkMd8UqxZ/tRGsukA6d1wYzzSMiXL23VPW690jB4lAnT
+6uMgmxWEeLdYDdpchU9WimEa4HAfy6CstsAJSyJDUP7ljj0IHeeIMz6dt1TUVwfi
+X3T+o1BEjqsOYmx/ZpJc1RUKrL+InxltaUfrLSU+jr3msZqZeWFJw3/TVanA9mui
+BJw0N2oN/gaTsbiO4FAxJBAq4T7ylUz/XIsNlTWreB+rvM47TZORUhqiOHxuDiDV
+oDESHvZnHfP7EQgScCf1HDn63c1eZFgbiZm3mu349qG8sYkxXJqke1zJwNQDepQ9
+kBQHjpslSJsVa7zuYtkR+WjycjGFLPXi1ZDkKVhRfdp5NIh19WUaE+Ucbo2MexLf
+QP2IcF50H2WLewccdQwN2BNuF7WzvByID/RypNky7pFs+iE/vDK6JFe65oUncMHJ
+UZczFzeYHYNUud2UBre8O746id6V7nhX+6+43Mm+R/fG3CsXkxvCnIjhl91+DAXL
+a7W6LmXnF4soTfEzikuTaehWEBV6ecV2HieTmuu1g6FXVw==
+=FI4I
+-----END PGP MESSAGE-----

@@ -1,0 +1,37 @@
+Script started on 2020-06-08 19:32:27+0700
+]0;glenda@glenda-ubuntu: ~/coolyeah/Semester 4/os/os201/UAS[01;32mglenda@glenda-ubuntu[00m:[01;34m~/coolyeah/Semester 4/os/os201/UAS[00m$ PS1="$ "
+$ echo $GitHubUser
+glendaesutanto
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-193300-8e99-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-193307-a3cf-UAS/> echo -e $CEKSAYA
+glendaesutanto ZCZCSCRIPTSTART 200529-231157 glendaesutanto 
+glendaesutanto glendaesutanto 200529-231232-ca8e-UAS/ 200529-231232 SEQOK SUMOK ca8e64e3 
+glendaesutanto glendaesutanto 200529-231246-fa9c-UAS/ 200529-231246 SEQOK SUMOK fa9c43bf 
+glendaesutanto glendaesutanto 200529-231249-840c-UAS/ 200529-231249 SEQOK SUMOK 840cd2bd 
+glendaesutanto glendaesutanto 200529-231319-b704-UAS/ 200529-231319 SEQOK SUMOK b7044de6 
+glendaesutanto ZCZCSCRIPTSTOP 200529-231326 SEQOK 
+
+200608-193319-365e-UAS/> echo -e $CEKSEBELA1
+glendaesutanto ZCZCSCRIPTSTART 200603-090822 Gusni-Lusiana 
+glendaesutanto Gusni-Lusiana 200603-090829-3a29-home/fasilkom/mahasiswa/g/gusni.lusiana01/ 200603-090829 SEQOK SUMOK 3a29a052 
+glendaesutanto Gusni-Lusiana 200603-090830-63e9-home/fasilkom/mahasiswa/g/gusni.lusiana01/ 200603-090830 SEQOK SUMOK 63e933e8 
+glendaesutanto Gusni-Lusiana 200603-090833-6234-home/fasilkom/mahasiswa/g/gusni.lusiana01/ 200603-090833 SEQOK SUMOK 62341a57 
+glendaesutanto Gusni-Lusiana 200603-090840-d4a7-home/fasilkom/mahasiswa/g/gusni.lusiana01/ 200603-090840 SEQOK SUMOK d4a72065 
+glendaesutanto ZCZCSCRIPTSTOP 200603-090844 SEQOK 
+
+200608-193327-c992-UAS/> echo -e $CEKSEBELA2
+glendaesutanto ZCZCSCRIPTSTART 200608-021323 gustifahmi 
+glendaesutanto gustifahmi 200608-021346-28d3-gusti.fahmi/ 200608-021346 SEQOK SUMOK 28d359e8 
+glendaesutanto gustifahmi 200608-021353-7430-gusti.fahmi/ 200608-021353 SEQOK SUMOK 74307073 
+glendaesutanto gustifahmi 200608-021355-d073-gusti.fahmi/ 200608-021355 SEQOK SUMOK d073d615 
+glendaesutanto gustifahmi 200608-021401-ca4b-gusti.fahmi/ 200608-021401 SEQOK SUMOK ca4bfb21 
+glendaesutanto ZCZCSCRIPTSTOP 200608-021408 SEQOK 
+
+200608-193336-0840-UAS/> exit
+exit
+
+Script done on 2020-06-08 19:33:44+0700
